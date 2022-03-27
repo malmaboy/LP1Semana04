@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/bin/Debug/net5.0/Fibonacci.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/bin/Debug/net5.0/Fibonacci.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/bin/Debug/net5.0/Fibonacci.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/bin/Debug/net5.0/Fibonacci.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/bin/Debug/net5.0/ref/Fibonacci.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/bin/Debug/net5.0/Fibonacci.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/obj/Debug/net5.0/Fibonacci.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/obj/Debug/net5.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/obj/Debug/net5.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/obj/Debug/net5.0/Fibonacci.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/obj/Debug/net5.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/obj/Debug/net5.0/Fibonacci.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/obj/Debug/net5.0/ref/Fibonacci.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/obj/Debug/net5.0/Fibonacci.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/Fibonacci/obj/Debug/net5.0/Fibonacci.genruntimeconfig.cache

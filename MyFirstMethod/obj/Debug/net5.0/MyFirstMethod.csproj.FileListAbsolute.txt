@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/bin/Debug/net5.0/MyFirstMethod.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/bin/Debug/net5.0/MyFirstMethod.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/bin/Debug/net5.0/MyFirstMethod.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/bin/Debug/net5.0/MyFirstMethod.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/bin/Debug/net5.0/ref/MyFirstMethod.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/bin/Debug/net5.0/MyFirstMethod.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/obj/Debug/net5.0/MyFirstMethod.csprojAssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/obj/Debug/net5.0/MyFirstMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/obj/Debug/net5.0/MyFirstMethod.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/obj/Debug/net5.0/MyFirstMethod.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/obj/Debug/net5.0/MyFirstMethod.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/obj/Debug/net5.0/MyFirstMethod.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/obj/Debug/net5.0/ref/MyFirstMethod.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/obj/Debug/net5.0/MyFirstMethod.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/Aula04/MyFirstMethod/obj/Debug/net5.0/MyFirstMethod.genruntimeconfig.cache
